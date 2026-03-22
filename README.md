@@ -250,12 +250,8 @@ Based on the model findings:
 ## 👤 Author
 
 **Jibran Shahid**
-MS Data Science · University of Central Punjab
 
 [![Email](https://img.shields.io/badge/Email-jibranshahid01000101%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jibranshahid01000101@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jibranshahid)
 
----
-
-*This project is part of my data science portfolio. Feel free to fork, star ⭐, or reach out.*
