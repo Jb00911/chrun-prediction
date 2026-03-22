@@ -252,6 +252,6 @@ Based on the model findings:
 **Jibran Shahid**
 
 [![Email](https://img.shields.io/badge/Email-jibranshahid01000101%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jibranshahid01000101@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jibranshahid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://jb00911.github.io/jibranshahid.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibran-shahid-81760223b/)
 
